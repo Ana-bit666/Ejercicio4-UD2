@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\anafr\Desktop\Ejercicio4 local UD2\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3460994254.index
+357871136.index
